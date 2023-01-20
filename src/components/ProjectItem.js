@@ -14,3 +14,4 @@ function ProjectItem({ name, about, technologies }) {
 }
 
 export default ProjectItem;
+
